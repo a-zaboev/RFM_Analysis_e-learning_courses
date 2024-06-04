@@ -10,3 +10,13 @@
 Итоговые сегменты визуализированы для наглядного понимания их размеров, взаимосвязи и значимости.
 
 Сделаны выводы о положении дел в онлайн школе, исходя из сегментов студентов, даны рекомендации.
+
+<details>
+<summary><h3>Скриншоты</h3></summary>
+  <br>
+<img src="https://github.com/a-zaboev/RFM_Analysis_e-lerning_courses/blob/main/Visualization_1.JPG" alt='RFM screen' width='620''>
+  <br>   <br> 
+<img src="https://github.com/a-zaboev/RFM_Analysis_e-lerning_courses/blob/main/Visualization_2.JPG" alt='RFM screen' width='620''>
+  <br>   <br> 
+<img src="https://github.com/a-zaboev/RFM_Analysis_e-lerning_courses/blob/main/Visualization_3.JPG" alt='RFM screen' width='620''>
+</details>
